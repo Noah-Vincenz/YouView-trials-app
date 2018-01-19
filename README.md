@@ -1,1 +1,1 @@
-# YouView-trials-app
+© YouView-trials-app
